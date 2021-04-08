@@ -8,9 +8,7 @@ function Header() {
     <div className="header">
       <div className="flex">
         <img src="/logo.png" alt="AJ Notes Logo" className="logo"/>
-        <NavLink to="/" className="header-title">
-          AJ Notes
-        </NavLink>
+
         <NavLink to="/" className="header-link">
           Notes
         </NavLink>
